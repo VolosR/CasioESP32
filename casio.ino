@@ -6,8 +6,8 @@ TFT_eSPI    tft = TFT_eSPI();
 #include <WiFi.h>
 #include "time.h"
 
-const char* ssid     = "IGK20";
-const char* password = "18072019";
+const char* ssid     = "xxxxx";
+const char* password = "xxxxx";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec =3600;
